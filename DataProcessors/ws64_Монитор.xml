@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<DataProcessor uuid="9e565e15-78a5-438e-a1f0-0095dc819057">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ws64_Монитор" category="Object">
+				<xr:TypeId>a22dc634-5963-4f1b-8ac4-9f4fc195c1f3</xr:TypeId>
+				<xr:ValueId>a3ef6b72-b916-4c73-b5b3-8a701c086ae5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ws64_Монитор" category="Manager">
+				<xr:TypeId>54c79efd-73bb-42d8-a67a-5f6e80ec8474</xr:TypeId>
+				<xr:ValueId>721789b9-a1ff-4d02-94e4-ad26cb779ca1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ws64_Монитор</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ws64 монитор</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm>DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма</DefaultForm>
+			<AuxiliaryForm>DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма</AuxiliaryForm>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>ТестУпраляемаяФорма</Form>
+			<Form>ТестОбычнаФорма</Form>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>
