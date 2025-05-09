@@ -1,47 +1,47 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Catalog.Контрагент" id="90d2107a-66b5-4b3b-9e21-9777bfab834c" configVersion="d5607d791b45d54e81fcea50e171a46300000000"/>
-		<Metadata name="Catalog.Номенклатура" id="51663a00-b053-493a-a2bb-e5120f84fdee" configVersion="f948e3f4a7712343a01e864af69dd4b400000000"/>
-		<Metadata name="CommonModule.ws64_frm_КлиентСервер" id="dda723e2-9057-4513-9270-eb3276a973e8" configVersion="0fd1b298e05c764190eeb95f03a24f0a00000000"/>
-		<Metadata name="CommonModule.ws64_frm_КлиентСервер.Module" id="dda723e2-9057-4513-9270-eb3276a973e8.0" configVersion="04f1b86614a4944681b8e12cca62035c00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="726d418a-2f0d-4c7c-92f5-2b14dc714679" configVersion="b612241466b87441b4f08ec778157e1100000000"/>
-		<Metadata name="DataProcessor.ws64_fs_exch" id="20473c17-e287-4fcb-acf2-6a44bff168fe" configVersion="4565b8a34cabe04ab4ad9cfbb5ca7a4100000000"/>
-		<Metadata name="DataProcessor.ws64_fs_exch.ObjectModule" id="20473c17-e287-4fcb-acf2-6a44bff168fe.0" configVersion="07b44d50a8849347a53ddc3ba6c0f83500000000"/>
-		<Metadata name="DataProcessor.ws64_log" id="5bd21e2b-1f62-49b5-a045-9162aa2cfb31" configVersion="25e0ef2307680448984dc22cfea6810f00000000"/>
-		<Metadata name="DataProcessor.ws64_log.ObjectModule" id="5bd21e2b-1f62-49b5-a045-9162aa2cfb31.0" configVersion="bdef78affcac864da6f397aefb6f552e00000000"/>
-		<Metadata name="DataProcessor.ws64_log1" id="8949af55-cc46-45d0-9ab3-832b745ce3a6" configVersion="0e44d34c9a696245b27fb09db22abe1200000000"/>
-		<Metadata name="DataProcessor.ws64_log1.ObjectModule" id="8949af55-cc46-45d0-9ab3-832b745ce3a6.0" configVersion="878c3b3be874394b96dad7928ac11dfd00000000"/>
-		<Metadata name="DataProcessor.ws64_log_tst" id="211ecd10-e64c-4d02-a693-f5d662403980" configVersion="4a2f9567a94bbe43bd03ea3086768e1800000000"/>
-		<Metadata name="DataProcessor.ws64_log_tst.Form.Форма" id="471905a3-40e0-47f2-ae53-6f9acc15c225" configVersion="bc5aefcd6ebca343b9d481edcb108b4300000000"/>
-		<Metadata name="DataProcessor.ws64_log_tst.Form.Форма.Form" id="471905a3-40e0-47f2-ae53-6f9acc15c225.0" configVersion="84080ecf2a630b4ab7ef0b50d2db947400000000"/>
-		<Metadata name="DataProcessor.ws64_log_tst.ObjectModule" id="211ecd10-e64c-4d02-a693-f5d662403980.0" configVersion="068fd692b6a69c4aa2d139806a98fa1600000000"/>
-		<Metadata name="DataProcessor.ws64_rls_exp" id="21401bad-67ed-4aec-bba9-db184c23bb3c" configVersion="77608adedffeac4fb8b8ee026147ca6700000000"/>
-		<Metadata name="DataProcessor.ws64_rls_exp.ObjectModule" id="21401bad-67ed-4aec-bba9-db184c23bb3c.0" configVersion="80bafabc4ebc8f49836edda1290866c200000000"/>
-		<Metadata name="DataProcessor.ws64_sender" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34" configVersion="dee9265835519f45b8ed45b4957688f500000000"/>
-		<Metadata name="DataProcessor.ws64_sender.Form.Форма" id="da09f8cb-541c-480a-be2b-52b15b024031" configVersion="221b83720556f84c865d282fc38bb53900000000"/>
-		<Metadata name="DataProcessor.ws64_sender.Form.Форма.Form" id="da09f8cb-541c-480a-be2b-52b15b024031.0" configVersion="57dd3408aefeb445aadc099e8f7b92bd00000000"/>
-		<Metadata name="DataProcessor.ws64_sender.ManagerModule" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34.2" configVersion="d75b9c4621fd2442b9111ecc17bdc2a300000000"/>
-		<Metadata name="DataProcessor.ws64_sender.ObjectModule" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34.0" configVersion="1abcb79100719a48ba32941201ac64b700000000"/>
-		<Metadata name="DataProcessor.ws64_state" id="5ff72ca4-41af-4124-b1e7-7629513235f5" configVersion="0d634d587868eb419cd2b34ac94e3aa000000000"/>
-		<Metadata name="DataProcessor.ws64_state.ObjectModule" id="5ff72ca4-41af-4124-b1e7-7629513235f5.0" configVersion="9c0f64a109dc9943ae1826db3d6eaa2c00000000"/>
-		<Metadata name="DataProcessor.ws64_template" id="df31398c-32b4-4a5f-a4e0-d24484dc975c" configVersion="9d270dae8e2b1f48bd42c61a6cf46cfb00000000"/>
-		<Metadata name="DataProcessor.ws64_template.ObjectModule" id="df31398c-32b4-4a5f-a4e0-d24484dc975c.0" configVersion="53f297be265700479f67b932d693e9fb00000000"/>
-		<Metadata name="DataProcessor.ws64_Логгер" id="b6fa0e53-4262-4060-bb44-99372acaf298" configVersion="3d608a0c17b8aa4b9a2da7350fd98af200000000"/>
-		<Metadata name="DataProcessor.ws64_Логгер.ObjectModule" id="b6fa0e53-4262-4060-bb44-99372acaf298.0" configVersion="01383ebc769dc243a2c83677e11d8ebc00000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор" id="9e565e15-78a5-438e-a1f0-0095dc819057" configVersion="72b7fe0fe69ea846a085d7cda7fec0cb00000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d" configVersion="5b29acf0f3771b46866311d9d0630fd400000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма.Form" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d.0" configVersion="2d8bac3bfefe9e459b630a559055b11100000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма" id="417ade2c-0893-4d87-bb93-78849d4e40a7" configVersion="2b3cadbe5f1ec744b94fe6d77586291c00000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма.Form" id="417ade2c-0893-4d87-bb93-78849d4e40a7.0" configVersion="2e2c012f004a864da3edf9d21d0ad1d900000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.ObjectModule" id="9e565e15-78a5-438e-a1f0-0095dc819057.0" configVersion="3b3f666ce2dafe4aa9519244b75406b900000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик" id="8eb33ad1-b0a0-458d-8220-2ea41f6108a3" configVersion="59d6fea2256fbe4d892d4a52e2da41ca00000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d" configVersion="7cbccedbaa90cb4a9400d0ade73b12f900000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест.Form" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d.0" configVersion="13834d8fa31f5640855ffe1557eddc1f00000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик.Form.ТестУпр" id="64d98af4-e25d-4357-8617-e11e84a0e8b8" configVersion="5d071350d7852a4891f49e8dfb7a369f00000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик.Form.ТестУпр.Form" id="64d98af4-e25d-4357-8617-e11e84a0e8b8.0" configVersion="6fddfe6aa0f5d04db500b5239cb891d500000000"/>
-		<Metadata name="DataProcessor.ws64_Счетчик.ObjectModule" id="8eb33ad1-b0a0-458d-8220-2ea41f6108a3.0" configVersion="0fcb43cd83abcb4687eed7333e3bd0a300000000"/>
-		<Metadata name="Document.Реализация" id="d276e301-6698-47c6-935c-7829731a5fbf" configVersion="145f0cd92e6ea840ae42c72431808eb000000000">
+		<Metadata name="Catalog.Контрагент" id="90d2107a-66b5-4b3b-9e21-9777bfab834c" configVersion="703a0bd62c6c62498ca16589c1c38eae00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="51663a00-b053-493a-a2bb-e5120f84fdee" configVersion="bbba5ac3f1a6284aafdf254afa328bf700000000"/>
+		<Metadata name="CommonModule.ws64_frm_КлиентСервер" id="dda723e2-9057-4513-9270-eb3276a973e8" configVersion="e51208cd4c82f34c98cfa6ee3048f18d00000000"/>
+		<Metadata name="CommonModule.ws64_frm_КлиентСервер.Module" id="dda723e2-9057-4513-9270-eb3276a973e8.0" configVersion="be017dcb7d85ab489af6bdc6b7a64bc700000000"/>
+		<Metadata name="Configuration.Конфигурация" id="726d418a-2f0d-4c7c-92f5-2b14dc714679" configVersion="2791956c9148e247bdf7e8743adf697d00000000"/>
+		<Metadata name="DataProcessor.ws64_fs_exch" id="20473c17-e287-4fcb-acf2-6a44bff168fe" configVersion="175a30fd0a201a4981fa83ac4675034f00000000"/>
+		<Metadata name="DataProcessor.ws64_fs_exch.ObjectModule" id="20473c17-e287-4fcb-acf2-6a44bff168fe.0" configVersion="a6552b0b60928e4086a0949ab06a690c00000000"/>
+		<Metadata name="DataProcessor.ws64_log" id="5bd21e2b-1f62-49b5-a045-9162aa2cfb31" configVersion="892f109591453e4ca792e377265fbade00000000"/>
+		<Metadata name="DataProcessor.ws64_log.ObjectModule" id="5bd21e2b-1f62-49b5-a045-9162aa2cfb31.0" configVersion="8b5319d55aae9d45a215025c447396a700000000"/>
+		<Metadata name="DataProcessor.ws64_log1" id="8949af55-cc46-45d0-9ab3-832b745ce3a6" configVersion="141ee7d7d3106e4ab6dbb30fb2290ef400000000"/>
+		<Metadata name="DataProcessor.ws64_log1.ObjectModule" id="8949af55-cc46-45d0-9ab3-832b745ce3a6.0" configVersion="611da0069b5dfd438f7ffa2b93722f0700000000"/>
+		<Metadata name="DataProcessor.ws64_log_tst" id="211ecd10-e64c-4d02-a693-f5d662403980" configVersion="85bbb55375548648af557a2006fc6e4d00000000"/>
+		<Metadata name="DataProcessor.ws64_log_tst.Form.Форма" id="471905a3-40e0-47f2-ae53-6f9acc15c225" configVersion="bd1510fe6205b5418c993bfd786c054a00000000"/>
+		<Metadata name="DataProcessor.ws64_log_tst.Form.Форма.Form" id="471905a3-40e0-47f2-ae53-6f9acc15c225.0" configVersion="d9704978dae30642ba863350e82a427900000000"/>
+		<Metadata name="DataProcessor.ws64_log_tst.ObjectModule" id="211ecd10-e64c-4d02-a693-f5d662403980.0" configVersion="ca9bf198f070874690a2fa557c4f89a600000000"/>
+		<Metadata name="DataProcessor.ws64_rls_exp" id="21401bad-67ed-4aec-bba9-db184c23bb3c" configVersion="40e214d867d07c4bad028da7763ad69d00000000"/>
+		<Metadata name="DataProcessor.ws64_rls_exp.ObjectModule" id="21401bad-67ed-4aec-bba9-db184c23bb3c.0" configVersion="6fb815343f5b6943b2f545fad4b5a25200000000"/>
+		<Metadata name="DataProcessor.ws64_sender" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34" configVersion="455576ca283008488b6f34fc6e3ff7ea00000000"/>
+		<Metadata name="DataProcessor.ws64_sender.Form.Форма" id="da09f8cb-541c-480a-be2b-52b15b024031" configVersion="5c39ff2c98da6341b49ad76428ce7cce00000000"/>
+		<Metadata name="DataProcessor.ws64_sender.Form.Форма.Form" id="da09f8cb-541c-480a-be2b-52b15b024031.0" configVersion="8e04d4d134484245a73eb1aeebcd91c300000000"/>
+		<Metadata name="DataProcessor.ws64_sender.ManagerModule" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34.2" configVersion="6bbf2b58880a9e4982fddaa81f71fd0500000000"/>
+		<Metadata name="DataProcessor.ws64_sender.ObjectModule" id="e6fce7d3-01e8-43d4-a6fb-2e306d703a34.0" configVersion="de49ed6ddfb9b046a8dffe44fe23f71900000000"/>
+		<Metadata name="DataProcessor.ws64_state" id="5ff72ca4-41af-4124-b1e7-7629513235f5" configVersion="c053d9c0bd3e404f859c431f8ec6335a00000000"/>
+		<Metadata name="DataProcessor.ws64_state.ObjectModule" id="5ff72ca4-41af-4124-b1e7-7629513235f5.0" configVersion="fe868e90733d8e4a8f89f6f453f4aa7000000000"/>
+		<Metadata name="DataProcessor.ws64_template" id="df31398c-32b4-4a5f-a4e0-d24484dc975c" configVersion="a9d5523a0dafc349a0c0489e6c7c561400000000"/>
+		<Metadata name="DataProcessor.ws64_template.ObjectModule" id="df31398c-32b4-4a5f-a4e0-d24484dc975c.0" configVersion="492eb88fd3cd3240a7949ce49fe3661600000000"/>
+		<Metadata name="DataProcessor.ws64_Логгер" id="b6fa0e53-4262-4060-bb44-99372acaf298" configVersion="20cbb5fa29fdd540bce2ac4f473e106600000000"/>
+		<Metadata name="DataProcessor.ws64_Логгер.ObjectModule" id="b6fa0e53-4262-4060-bb44-99372acaf298.0" configVersion="4932386eca2a4649b187063cdcb9352900000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор" id="9e565e15-78a5-438e-a1f0-0095dc819057" configVersion="148a300d42ee4e4e8e360e15b4fbf6b700000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d" configVersion="b8606c6230c2854b8f69adb3b9c34ded00000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма.Form" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d.0" configVersion="d41bd3afa6c55e419f22e7544a19493c00000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма" id="417ade2c-0893-4d87-bb93-78849d4e40a7" configVersion="231b1bdcf10ad24f89828f0067c4471700000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма.Form" id="417ade2c-0893-4d87-bb93-78849d4e40a7.0" configVersion="7294ef229c76a348b1a90a07844a476800000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.ObjectModule" id="9e565e15-78a5-438e-a1f0-0095dc819057.0" configVersion="c8081287fa876e4297c9415f3de5229300000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик" id="8eb33ad1-b0a0-458d-8220-2ea41f6108a3" configVersion="b9640105b3eab84faa225f8884744c0a00000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d" configVersion="df0972caa071d04e8bf8b494a6376a4400000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест.Form" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d.0" configVersion="e74df93b6389eb4184abfd1602f19d3c00000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик.Form.ТестУпр" id="64d98af4-e25d-4357-8617-e11e84a0e8b8" configVersion="d120e3e67c7117448e9e0494f106657900000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик.Form.ТестУпр.Form" id="64d98af4-e25d-4357-8617-e11e84a0e8b8.0" configVersion="c191c77ea13f1e4597fe8073cc42d4cd00000000"/>
+		<Metadata name="DataProcessor.ws64_Счетчик.ObjectModule" id="8eb33ad1-b0a0-458d-8220-2ea41f6108a3.0" configVersion="dcece90afb753247bfc8068733c2be4100000000"/>
+		<Metadata name="Document.Реализация" id="d276e301-6698-47c6-935c-7829731a5fbf" configVersion="c2ac411bb37fe343b151178d9e661ede00000000">
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="017ce64b-7154-4f21-b6d0-1ed30ab1d9fb"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Номенклатура" id="3ea84b1a-3ddf-4a00-b6e5-966fbf916dce"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Сумма" id="420a3a43-4ccb-4b13-b761-f459d468ae62"/>
@@ -49,8 +49,8 @@
 			<Metadata name="Document.Реализация.Attribute.Договор" id="d3a90c0c-7211-4dc7-a85a-63ea0fd09db4"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары" id="fede1581-1dde-43cb-8c43-e085c6f94e52"/>
 		</Metadata>
-		<Metadata name="ExchangePlan.Plan" id="1efcca08-2c35-4440-9bf6-ca4bc94e26e4" configVersion="b41aced49ddc724c96c1eadb472fb72e00000000"/>
-		<Metadata name="ExchangePlan.Plan.Content" id="1efcca08-2c35-4440-9bf6-ca4bc94e26e4.1" configVersion="debe68696eb4a7408351dfc7df53673700000000"/>
-		<Metadata name="Language.Русский" id="25254e45-38e9-4648-81de-80ee5c1cb2f9" configVersion="c224b67b69b11649a51dd78b129a3dfb00000000"/>
+		<Metadata name="ExchangePlan.Plan" id="1efcca08-2c35-4440-9bf6-ca4bc94e26e4" configVersion="cfdd43204f1ed049ace71588e6ba4d9700000000"/>
+		<Metadata name="ExchangePlan.Plan.Content" id="1efcca08-2c35-4440-9bf6-ca4bc94e26e4.1" configVersion="3fda8fcdebf099428715947e2346677b00000000"/>
+		<Metadata name="Language.Русский" id="25254e45-38e9-4648-81de-80ee5c1cb2f9" configVersion="925bbcae62bde84a9207dc772eddb1c400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
