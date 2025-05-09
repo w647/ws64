@@ -230,6 +230,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Document>Реализация</Document>
 			<DataProcessor>ws64_Счетчик</DataProcessor>
+			<DataProcessor>ws64_Логгер</DataProcessor>
 			<DataProcessor>ws64_Монитор</DataProcessor>
 			<DataProcessor>ws64_state</DataProcessor>
 			<DataProcessor>ws64_log</DataProcessor>

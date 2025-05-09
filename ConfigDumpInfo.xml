@@ -5,7 +5,7 @@
 		<Metadata name="Catalog.Номенклатура" id="51663a00-b053-493a-a2bb-e5120f84fdee" configVersion="2e3156e8680fea4aa75216754770620f00000000"/>
 		<Metadata name="CommonModule.ws64_frm_КлиентСервер" id="dda723e2-9057-4513-9270-eb3276a973e8" configVersion="128dbe2806eb3c44a8ddfdde3544de7100000000"/>
 		<Metadata name="CommonModule.ws64_frm_КлиентСервер.Module" id="dda723e2-9057-4513-9270-eb3276a973e8.0" configVersion="e4e2b171c0e57c4d96058e0371afebad00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="726d418a-2f0d-4c7c-92f5-2b14dc714679" configVersion="309d4ea7f2e6ba4395be14a981f6dafc00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="726d418a-2f0d-4c7c-92f5-2b14dc714679" configVersion="7884f53b144bbc44b749523afa9e2a5900000000"/>
 		<Metadata name="DataProcessor.ws64_fs_exch" id="20473c17-e287-4fcb-acf2-6a44bff168fe" configVersion="8006d0a4670f4548998089f918e730ab00000000"/>
 		<Metadata name="DataProcessor.ws64_fs_exch.ObjectModule" id="20473c17-e287-4fcb-acf2-6a44bff168fe.0" configVersion="8f869c643e6c4244a8c3b804e740d2ac00000000"/>
 		<Metadata name="DataProcessor.ws64_log" id="5bd21e2b-1f62-49b5-a045-9162aa2cfb31" configVersion="4b307e6da34b21458dfa2abb5145148c00000000"/>
@@ -27,12 +27,14 @@
 		<Metadata name="DataProcessor.ws64_state.ObjectModule" id="5ff72ca4-41af-4124-b1e7-7629513235f5.0" configVersion="8c4ac892b7918849bd1b65f5439a352900000000"/>
 		<Metadata name="DataProcessor.ws64_template" id="df31398c-32b4-4a5f-a4e0-d24484dc975c" configVersion="f55962cefc92214a88550b8783f0015c00000000"/>
 		<Metadata name="DataProcessor.ws64_template.ObjectModule" id="df31398c-32b4-4a5f-a4e0-d24484dc975c.0" configVersion="f2ba20730fce1247bf7490cd2a00f8a200000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор" id="9e565e15-78a5-438e-a1f0-0095dc819057" configVersion="ba4cd2f0b2f36645bdd2a985270bb5f400000000"/>
+		<Metadata name="DataProcessor.ws64_Логгер" id="b6fa0e53-4262-4060-bb44-99372acaf298" configVersion="4644d15f144947468e3ba9b05331796100000000"/>
+		<Metadata name="DataProcessor.ws64_Логгер.ObjectModule" id="b6fa0e53-4262-4060-bb44-99372acaf298.0" configVersion="efeeabad1e49a5439a1ae7985ca6d68200000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор" id="9e565e15-78a5-438e-a1f0-0095dc819057" configVersion="2cf6b3603e9a804daa3d90e914a12d1800000000"/>
 		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d" configVersion="0230112d631433439acc96d366e27b7f00000000"/>
 		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма.Form" id="ba77fd93-d875-43e0-ae69-bc485a82dd7d.0" configVersion="e40e5de246244d4fa59116e40f165d8c00000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма" id="417ade2c-0893-4d87-bb93-78849d4e40a7" configVersion="42902aa7eb60c84bbc2b3a57481bb70600000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма.Form" id="417ade2c-0893-4d87-bb93-78849d4e40a7.0" configVersion="6702213c57b9504181c9fa8b5843b82a00000000"/>
-		<Metadata name="DataProcessor.ws64_Монитор.ObjectModule" id="9e565e15-78a5-438e-a1f0-0095dc819057.0" configVersion="893c2f79b5fc164ba6361fac3206667700000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма" id="417ade2c-0893-4d87-bb93-78849d4e40a7" configVersion="bd031fdee3d13042b161f8c68fd6e34200000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма.Form" id="417ade2c-0893-4d87-bb93-78849d4e40a7.0" configVersion="bce4eeb4b9ae0c48a72e196c255870fa00000000"/>
+		<Metadata name="DataProcessor.ws64_Монитор.ObjectModule" id="9e565e15-78a5-438e-a1f0-0095dc819057.0" configVersion="284bd0e7e0209f478a7697912771161400000000"/>
 		<Metadata name="DataProcessor.ws64_Счетчик" id="8eb33ad1-b0a0-458d-8220-2ea41f6108a3" configVersion="051ef8fd86519242a494e745321ec80d00000000"/>
 		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d" configVersion="1da3ed17900b1441a08ee34ef8b401af00000000"/>
 		<Metadata name="DataProcessor.ws64_Счетчик.Form.Тест.Form" id="7ddc415e-44ae-4f19-9401-ac87fcee7f4d.0" configVersion="a26dad4d70a97040bce167e98a512f5d00000000"/>
