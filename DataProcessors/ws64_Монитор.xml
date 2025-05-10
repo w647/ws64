@@ -21,15 +21,15 @@
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm>DataProcessor.ws64_Монитор.Form.ТестУпраляемаяФорма</DefaultForm>
-			<AuxiliaryForm>DataProcessor.ws64_Монитор.Form.ТестОбычнаФорма</AuxiliaryForm>
+			<DefaultForm>DataProcessor.ws64_Монитор.Form.ТестУпр</DefaultForm>
+			<AuxiliaryForm>DataProcessor.ws64_Монитор.Form.Тест</AuxiliaryForm>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ExtendedPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Form>ТестУпраляемаяФорма</Form>
-			<Form>ТестОбычнаФорма</Form>
+			<Form>ТестУпр</Form>
+			<Form>Тест</Form>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>
