@@ -2,21 +2,21 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
 	<DataProcessor uuid="df31398c-32b4-4a5f-a4e0-d24484dc975c">
 		<InternalInfo>
-			<xr:GeneratedType name="DataProcessorObject.ws64_template" category="Object">
+			<xr:GeneratedType name="DataProcessorObject.ws64_Шаблон" category="Object">
 				<xr:TypeId>9da4d102-912e-4e66-9458-42baa6942823</xr:TypeId>
 				<xr:ValueId>349831df-76f6-47e2-827e-700d7bf12459</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="DataProcessorManager.ws64_template" category="Manager">
+			<xr:GeneratedType name="DataProcessorManager.ws64_Шаблон" category="Manager">
 				<xr:TypeId>142123c7-a88b-46bf-a354-c90abe5c15cc</xr:TypeId>
 				<xr:ValueId>fd381f29-4382-4f1e-888a-482916ae9a20</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ws64_template</Name>
+			<Name>ws64_Шаблон</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>ws64 template</v8:content>
+					<v8:content>ws64 шаблон</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

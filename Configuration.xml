@@ -229,6 +229,7 @@
 			<Catalog>Контрагент</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Document>Реализация</Document>
+			<DataProcessor>ws64_Шаблон</DataProcessor>
 			<DataProcessor>ws64_Счетчик</DataProcessor>
 			<DataProcessor>ws64_Логгер</DataProcessor>
 			<DataProcessor>ws64_Монитор</DataProcessor>
@@ -238,7 +239,6 @@
 			<DataProcessor>ws64_rls_exp</DataProcessor>
 			<DataProcessor>ws64_log_tst</DataProcessor>
 			<DataProcessor>ws64_sender</DataProcessor>
-			<DataProcessor>ws64_template</DataProcessor>
 			<DataProcessor>ws64_log1</DataProcessor>
 		</ChildObjects>
 	</Configuration>
